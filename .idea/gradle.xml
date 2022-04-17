@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/jdbc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/thymeleaf-baisc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/thymeleaf-baisc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/thymeleaf-basic" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/thymeleaf-basic" />
           </set>
         </option>
       </GradleProjectSettings>
